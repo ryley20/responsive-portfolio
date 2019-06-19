@@ -138,8 +138,3 @@ footer {
     width: 100%;
 }
 
-@media screen{
-    max-width: 960px;
-    max-width: 780px;
-    max-width: 640px;
-}
